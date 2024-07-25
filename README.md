@@ -4,3 +4,4 @@ The fare amount of a ride is influenced by various factors such as distance, dur
 //This is my Mentorship Project - I'm mentioned this component task step-by-step.
 //Data processing and Exploration - Understanding, Importing data, Data Preparation - cleaning, Handaling Missing/Null,Feature engineering,EDA, Spliting, Scaling, Corr. analysis.
 //Regression Modeling - Select and train the Regression, Evaluate and Fine tunning the model.
+//Model Evaluation and Insights - Evaluate Model Performance, Interpret Feature, Predictions.
